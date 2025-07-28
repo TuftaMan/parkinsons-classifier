@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ```
 3. **Обучите модель:**
 ```bash
-python train_model.py
+python main.py
 ```
 
 
